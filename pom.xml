@@ -40,7 +40,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-             <build>
+             
  
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
